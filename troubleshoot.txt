@@ -1,0 +1,5 @@
+Use the following versions: (for some reason other ones do not work, as stated in the Udacity car simulator github)
+
+pip install python-engineio==3.13.2
+
+pip install python-socketio==4.6.1

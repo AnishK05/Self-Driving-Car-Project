@@ -1,0 +1,8 @@
+opencv-contrib-python
+numpy
+matplotlib
+tensorflow
+keras
+python-socketio #to connect with Udacity car simulator
+Flask
+eventlet
